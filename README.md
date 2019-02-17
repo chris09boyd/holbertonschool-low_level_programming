@@ -4,4 +4,3 @@ Basically, C++ maintains all aspects of the C language, while providing new feat
 
 For example, C++ makes it easier to manage memory and adds several features to allow "object-oriented" programming and "generic" programming. Basically, it makes it easier for programmers to stop thinking about the nitty-gritty details of how the machine works and think about the problems they are trying to solve.
 
-fasfosfijso
