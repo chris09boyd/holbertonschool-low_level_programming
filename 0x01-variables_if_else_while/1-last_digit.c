@@ -4,7 +4,13 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/**
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
 int main(void)
+
 /* This file was created for project 0x01*/
 {
 	int n;
@@ -15,13 +21,14 @@ int main(void)
 
 	if (LastDigit > 5)
 	{
-		printf("Last digit of %d and is greater than 5\n", n);
+		printf("Last digit of %d is %d and is greater than 5\n", n, LastDigit);
 	} else if (LastDigit == 0)
 	{
-		printf("Last digit of %d and is 0\n", n);
-	} else (LastDigit < 6) && (LastDigit != 0)
+		printf("Last digit of %d is %d and is 0\n", n, LastDigit);
+	} else if ((LastDigit < 6) && (LastDigit != 0))
 	{
-		printf("Last digit of %d and is less than 6 and not 0\n", n);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n",
+		       n, LastDigit);
 	}
 	return (0);
 }
