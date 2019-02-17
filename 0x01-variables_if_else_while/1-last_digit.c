@@ -10,14 +10,13 @@
  * Return: Always 0.
  */
 int main(void)
-
-/* This file was created for project 0x01*/
 {
 	int n;
+	int LastDigit;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	int LastDigit = n % 10;
+	LastDigit = n % 10;
 
 	if (LastDigit > 5)
 	{
