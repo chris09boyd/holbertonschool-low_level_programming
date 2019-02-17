@@ -3,6 +3,11 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/**
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
 /* betty style doc for function main goes there */
 int main(void)
 /* This file was created for project 0x01*/
