@@ -1,4 +1,4 @@
-C is a programming language originally developed for developing the Unix operating system. It is a low-level and powerful language, but it lacks many modern and useful constructs. C++ is a newer language, based on C, that adds many more modern programming language features that make it easier to program than C. 
+C++ is a programming language originally developed for developing the Unix operating system. It is a low-level and powerful language, but it lacks many modern and useful constructs. C++ is a newer language, based on C, that adds many more modern programming language features that make it easier to program than C. 
 
 Basically, C++ maintains all aspects of the C language, while providing new features to programmers that make it easier to write useful and sophisticated programs. 
 
