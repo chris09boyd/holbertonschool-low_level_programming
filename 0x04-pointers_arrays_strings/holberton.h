@@ -16,4 +16,5 @@ void _puts(char *str);
 int _isupper(int c);
 void print_rev(char *s);
 void rev_string(char *s);
+void puts2(char *str);
 #endif
